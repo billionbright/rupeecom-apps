@@ -1,7 +1,7 @@
 
 **Privacy Policy**
 
-BillionBright Solutions LLP built the Food Delivery & Service's as a free app. This service is provided by BillionBright Solutions LLP at no cost and is intended for use as is.
+BillionBright Solutions LLP built the Food Delivery Services as a free app. This service is provided by BillionBright Solutions LLP at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
