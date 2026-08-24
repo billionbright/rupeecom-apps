@@ -1,163 +1,92 @@
 # Privacy Policy
 
-**Effective Date: August 18, 2026**
+BillionBright Solutions LLP built the **Service Provider** app as a free app. This service is provided by BillionBright Solutions LLP at no cost and is intended for use as is.
 
-BillionBright Solutions LLP built the **Service Provider** app as a service provider and business management application. This Service is provided by BillionBright Solutions LLP and is intended to help service providers manage their business activities, services, customers, orders, bookings, and related operations.
+This page is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decides to use our Service.
 
-This Privacy Policy explains how we collect, use, store, and protect information when you use the Service Provider application.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, unless otherwise defined in this Privacy Policy.
 
 ## Information Collection and Use
 
-To provide and improve our Service, we may collect certain information that you provide while using the Service Provider application.
+For a better experience, while using our Service, we may require you to provide us with certain information. This information may include your name, phone number, email address, business information, service information, and other information required to provide the Service.
 
-Depending on the features you use, this information may include:
+The app may also access your device location when you provide the required permission. Location information may be used to provide service-related features and to manage or display your business or service location.
 
-* Service provider or business name
-* Name and contact information
-* Phone number and email address
-* Business or service location
-* Services offered by the provider
-* Business profile information
-* Customer, booking, order, or service-related information
-* Account and authentication information
-* Information that you voluntarily provide through the application
+The app does use third-party services that may collect information used to provide and improve the Service.
 
-We use this information to:
+Link to the privacy policy of third-party service providers used by the app:
 
-* Create and manage your Service Provider account
-* Provide business and service management features
-* Manage services, bookings, orders, and customers
-* Communicate with you regarding the Service
-* Improve and maintain the application
-* Provide customer support
-* Detect, prevent, and resolve technical problems
-* Maintain the security and reliability of our Service
+* [Google Play Services](https://www.google.com/policies/privacy/)
 
-## Third-Party Services
+## Location Information
 
-The application may use third-party services that may collect information used to provide, maintain, analyze, or improve the Service.
+The Service Provider app may access or collect location information from your device when you grant the required location permission.
 
-Third-party service providers may include services such as Google Play Services and other infrastructure, analytics, authentication, cloud, or communication services used by the application.
+Location information may be used to provide location-related features, manage your service location, and improve the functionality of the Service.
 
-The third-party services used by the application may have their own privacy policies governing the information they collect.
-
-**Google Play Services Privacy Policy:**
-
-[Google Privacy Policy](https://www.google.com/policies/privacy/?utm_source=chatgpt.com)
+You can allow or deny location permission through your device settings. If you deny location permission, some location-related features of the Service may not work properly.
 
 ## Log Data
 
-Whenever you use our Service, in the event of an error or technical issue, we may collect information through third-party services or application infrastructure known as Log Data.
+I want to inform you that whenever you use our Service, in a case of an error in the app, we may collect data and information through third-party products on your device called Log Data.
 
-Log Data may include:
+This Log Data may include information such as your device Internet Protocol ("IP") address, device name, operating system version, configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
-* Device Internet Protocol (IP) address
-* Device name
-* Operating system version
-* Application version
-* Application configuration
-* Date and time of Service usage
-* Diagnostic information
-* Crash and error information
-* Other technical statistics
+## Cookies
 
-This information is used to identify and resolve technical problems and improve the stability and performance of the application.
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-## Cookies and Similar Technologies
-
-The Service Provider application itself does not directly use cookies.
-
-However, third-party services or websites associated with the Service may use cookies or similar technologies to provide their services, maintain sessions, analyze usage, or improve their functionality.
-
-You can manage cookies through your device or browser settings where applicable.
+This Service does not use these "cookies" explicitly. However, the app may use third-party code and libraries that use cookies or similar technologies to collect information and improve their services.
 
 ## Service Providers
 
-We may work with third-party companies and individuals to facilitate and provide our Service.
+We may employ third-party companies and individuals due to the following reasons:
 
-These third parties may assist us with:
+* To facilitate our Service;
+* To provide the Service on our behalf;
+* To perform Service-related services; or
+* To assist us in analyzing how our Service is used.
 
-* Hosting and infrastructure
-* Authentication
-* Application functionality
-* Data storage
-* Analytics
-* Error and crash reporting
-* Communication services
-* Customer support
-* Service improvement
+We want to inform users of this Service that these third parties may have access to Personal Information where necessary to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-These service providers may have access to information where necessary to perform services on our behalf. They are expected to use such information only for the purposes for which it is provided and in accordance with applicable privacy and security requirements.
+## Security
 
-## Data Sharing
+We value your trust in providing us your Personal Information, thus we strive to use commercially acceptable means of protecting it.
 
-We do not sell your personal information.
-
-We may share information when reasonably necessary to:
-
-* Provide and operate the Service
-* Work with service providers that support our application
-* Comply with applicable laws, regulations, or legal processes
-* Protect the rights, property, or safety of BillionBright Solutions LLP, our users, or others
-* Detect, prevent, or address fraud, security, or technical issues
-* Protect the integrity and security of the Service
-
-## Data Security
-
-We value your trust and take reasonable measures to protect the information associated with your use of the Service.
-
-However, no method of transmission over the Internet or method of electronic storage is completely secure. Therefore, while we strive to use commercially reasonable means to protect your information, we cannot guarantee its absolute security.
-
-## Data Retention
-
-We retain information for as long as reasonably necessary to provide the Service, maintain business and account functionality, comply with legal obligations, resolve disputes, enforce agreements, and protect our legitimate interests.
-
-When information is no longer required for these purposes, we may delete or anonymize it in accordance with our applicable data retention practices.
+But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
 ## Links to Other Sites
 
-The Service may contain links to third-party websites or services.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site.
 
-If you click on a third-party link, you will be directed to that third-party website or service. These external sites are not operated by BillionBright Solutions LLP.
+Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites.
 
-We strongly recommend reviewing the privacy policies of any third-party websites or services that you visit.
-
-We have no control over and assume no responsibility for the content, privacy policies, or practices of third-party websites or services.
+We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ## Children's Privacy
 
-The Service Provider application is intended for service providers and businesses and is not directed toward children under the age of 13.
+These Services do not address anyone under the age of 13.
 
-We do not knowingly collect personally identifiable information from children under 13.
+We do not knowingly collect personally identifiable information from children under 13 years of age.
 
-If we become aware that a child under 13 has provided personal information, we will take reasonable steps to delete such information from our systems.
+In the case we discover that a child under 13 has provided us with personal information, we will take reasonable steps to delete this information from our systems.
 
-If you believe that a child has provided us with personal information, please contact us so that we can take appropriate action.
-
-## Your Rights and Choices
-
-Depending on your location and applicable laws, you may have rights regarding your personal information, including the right to request access to, correction of, or deletion of certain information.
-
-You may contact us using the information provided below if you have questions about your personal information or wish to make a privacy-related request.
+If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we can take the necessary actions.
 
 ## Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time.
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes.
 
-When we make changes, we will update the **Effective Date** at the top of this Privacy Policy. We encourage you to review this Privacy Policy periodically for any changes.
+We will notify you of any changes by posting the new Privacy Policy on this page.
 
-Your continued use of the Service after changes to this Privacy Policy become effective constitutes your acceptance of the updated policy.
+**This policy is effective as of 2026-Aug-24.**
 
 ## Contact Us
 
-If you have any questions, concerns, or suggestions regarding this Privacy Policy or the Service Provider application, please contact us at:
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
 **Email:** [dinesh.kumar@billionbright.org](mailto:dinesh.kumar@billionbright.org)
 
 **BillionBright Solutions LLP**
-
----
-
-This Privacy Policy applies to the **Service Provider** application developed and operated by **BillionBright Solutions LLP**.
